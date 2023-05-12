@@ -1,0 +1,887 @@
+.heading
+{
+	font-size:11px;
+	color:black;
+	font-weight:bold;
+	font-family:Verdana;
+}
+
+.heading12
+{
+	font-size:12px;
+	color:black;
+	font-weight:bold;
+	font-family:Verdana;
+}
+.heading20
+{
+	font-size:20px;
+	color:blue;
+	font-weight:normal;
+	font-family:Verdana;
+	padding-left:10px;
+	padding-right:10px;
+}
+.normaltext15
+{
+	font-size:12px;
+	color:black;
+	font-weight:bold;
+	font-family:Verdana;
+}
+.normaltext14
+{
+	font-size:14px;
+	color:black;
+	font-weight:bold;
+	font-family:Verdana;
+}
+.normaltext13
+{
+	font-size:13px;
+	color:black;
+	font-weight:normal;
+	font-family:Verdana;
+}
+
+.normaltext12
+{
+	font-size:12px;
+	color:black;
+	font-weight:normal;
+	font-family:Verdana;
+}
+
+.normaltext12b
+{
+	font-size:12px;
+	color:black;
+	font-weight:bold;
+	font-family:Verdana;
+}
+
+.normaltext11
+{
+	font-size:11px;
+	color:black;
+	font-weight:normal;
+	font-family:Verdana;
+}
+.normaltext10
+{
+	font-size:10px;
+	color:black;
+	font-weight:normal;
+	font-family:Verdana;
+}
+
+
+td.star{
+font-size:12px;
+color:#FF0000;
+}
+
+.success_message
+{
+color: green;
+font-family:verdana,Arial;
+font-size:11px;
+font-weight:bold;
+}
+
+.error_message
+{
+color:red;
+font-family:verdana,Arial;
+font-size:11px;
+font-weight:bold;
+}
+
+td.text_white11
+{
+color:#fff;
+font-family:verdana,Arial;
+font-size:11px;
+font-weight:normal;
+}
+
+td.text_white14
+{
+color:#fff;
+font-family:verdana,Arial;
+font-size:14px;
+font-weight:bold;
+}
+
+td.text_white14
+{
+color:#fff;
+font-family:verdana,Arial;
+font-size:14px;
+font-weight:bold;
+}
+
+td.text_white100
+{
+color:#fff;
+font-family:Times New Roman;
+font-size:30px;
+font-weight:bold;
+}
+
+/*Table with border style starts here*/
+#BorderTableCss
+{
+ border-collapse: collapse;
+ border:1px solid black;
+ background-color:#ffffff;
+}
+
+#BorderTableCss td 
+{
+ border:1px solid black;
+ color:black;
+ font-family:verdana,Arial;
+}
+/*Table with border style ends here*/
+
+.rowHeader {
+    height:20px;
+	color:#000000;
+	background-color:#9BB6F4;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+}
+.rowHeader11 {
+    height:20px;
+	color:#000000;
+	background-color:#CCCCCC;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+}/**/
+.rowHeader111{
+    height:20px;
+	color:#000000;
+	background-color:#9AC8F5;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+}
+/* blue link with size 11 starts here*/
+a.bluelink:link {color: blue;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:underline;}
+a.bluelink:visited {color: blue;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:underline;}
+a.bluelink:active {color:blue;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:underline;}
+a.bluelink:hover {color:#AF050D;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:underline;}
+/* blue link with size 11 ends here */
+
+/* white link with size 11 starts here*/
+a.whitelink12:link {color:#FFFFFF;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:none;}
+a.whitelink12:visited {color:#FFFFFF;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:none;}
+a.whitelink12:active {color:#FFFFFF;font-size:11px;font-weight:bold;font-family:verdana,Arial; text-decoration:none;}
+a.whitelink12:hover {color:#FFFFFF;font-size:11px;font-weight:bold;font-family:verdana,Arial; text-decoration:underline;}
+/* white link with size 11 ends here */
+
+ /* link for paging with size 11 starts here*/
+a.paginglink:link {color: #D40000;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:none;}
+a.paginglink:visited {color: #D40000;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:none;}
+a.paginglink:active {color:#D40000;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:none;}
+a.paginglink:hover {color:#D40000;font-size:11px;font-weight:bold;font-family:verdana,Arial;text-decoration:underline;}
+/* link for paging with size 11 ends here*/
+
+input.textbox50
+{
+color: black;
+font-family:Verdana,Arial;
+width:50px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox75
+{
+color: black;
+font-family:Verdana,Arial;
+width:75px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox100
+{
+color: black;
+font-family:Verdana,Arial;
+width:100px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox105
+{
+color: black;
+font-family:Verdana,Arial;
+width:105px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox125
+{
+color: black;
+font-family:Verdana,Arial;
+width:125px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox150
+{
+color: black;
+font-family:Verdana,Arial;
+width:150px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox125
+{
+color: black;
+font-family:Verdana,Arial;
+width:90px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+input.textbox175
+{
+color: black;
+font-family:Verdana,Arial;
+width:175px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox190
+{
+color: black;
+font-family:Verdana,Arial;
+width:190px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox200
+{
+color: black;
+font-family:Verdana,Arial;
+width:200px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox215
+{
+color: black;
+font-family:Verdana,Arial;
+width:215px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox225
+{
+color: black;
+font-family:Verdana,Arial;
+width:225px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox250
+{
+color: black;
+font-family:Verdana,Arial;
+width:250px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.textbox300
+{
+color: black;
+font-family:Verdana,Arial;
+width:300px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+input.textbox15
+{
+color: black;
+font-family:Verdana,Arial;
+width:15px;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+input.textbox
+{
+color: black;
+font-family:Verdana,Arial;
+height:20px;
+font-size:11px;
+font-weight:normal;
+}
+
+input.invisibletextbox190
+{
+ color: black;
+ font-family:Verdana,Arial;
+ width:190px;
+ height:20px;
+ font-size:12px;
+ font-weight:normal;
+ BORDER-RIGHT: black 0px solid; 
+ BORDER-TOP: black 0px solid;
+ BORDER-LEFT: black 0px solid; 
+ BORDER-BOTTOM: black 0px solid; 
+ background-color:white;
+ padding-right:3px;
+ padding-left:3px;
+ padding-top:3px;
+}
+
+input.button50
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:50;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+
+input.button75
+{
+height:30px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:75;
+color:white;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+cursor:pointer;
+}
+
+input.button100
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:100;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+
+input.button125
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:125;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+
+input.button150
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:150;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+input.button175
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:175;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+input.button200
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:200;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+
+input.button300
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:300;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+
+input.button325
+{
+height:22px;
+font-family:Verdana,Arial;
+font-size:11px;
+font-weight:bold;
+border-width:1px;
+width:325;
+background-color:#F1565A;
+border:1px solid #D1D1D1;
+color:white;
+cursor:pointer;
+}
+
+select.selectboxblue
+{
+border-width: 1px;
+height:20px;
+font-weight: normal;
+font-size: 11px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+
+select.selectbox50
+{
+border-width: 1px;
+width:50px;
+height:20px;
+font-weight: normal;
+font-size: 12px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+select.selectbox75
+{
+border-width: 1px;
+width:75px;
+height:20px;
+font-weight: normal;
+font-size: 12px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+select.selectbox100
+{
+border-width:1px;
+width:100px;
+height:20px;
+font-weight: normal;
+font-size: 11px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+
+select.selectbox150
+{
+border-width: 1px;
+width:150px;
+height:18px;
+font-weight: normal;
+font-size: 11px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+
+select.selectbox175
+{
+border-width: 1px;
+width:175px;
+height:20px;
+font-weight: normal;
+font-size: 11px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+
+select.selectbox110
+{
+border-width: 1px;
+width:110px;
+height:20px;
+font-weight: normal;
+font-size: 11px;
+font-family:Verdana,Arial;
+color: black;
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+}
+
+.textareastyle
+{
+	color:  black;
+	font-family:Verdana,Arial;
+	width:400px;
+	height:115px;
+	font-size:11px;
+	font-weight:normal;
+	BORDER-RIGHT: #769DDE 1px solid; 
+	BORDER-TOP: #769DDE 1px solid;
+	BORDER-LEFT: #769DDE 1px solid; 
+	BORDER-BOTTOM: #769DDE 1px solid; 
+}
+
+.textbox
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		height:22px;
+		font-size:11px;
+		font-weight:normal;
+		BORDER-RIGHT: black 1px solid; 
+		BORDER-TOP: black 1px solid;
+		BORDER-LEFT: black 1px solid; 
+		BORDER-BOTTOM: black 1px solid; 
+		padding-left:2px;
+		padding-right:2px;
+		width:150;
+	}
+	.textboxCaption
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		height:22px;
+		font-size:11px;
+		font-weight:normal;
+		BORDER-RIGHT: black 1px solid; 
+		BORDER-TOP: black 1px solid;
+		BORDER-LEFT: black 1px solid; 
+		BORDER-BOTTOM: black 1px solid; 
+		padding-left:2px;
+		padding-right:2px;
+		width:70;
+
+	}
+	.textarea
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		height:50px;
+		font-size:11px;
+		font-weight:normal;
+		BORDER-RIGHT: black 1px solid; 
+		BORDER-TOP: black 1px solid;
+		BORDER-LEFT: black 1px solid; 
+		BORDER-BOTTOM: black 1px solid; 
+		padding-left:2px;
+		padding-right:2px;
+		width:150;
+	}
+	.textareaCaption
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		height:45px;
+		font-size:11px;
+		font-weight:normal;
+		BORDER-RIGHT: black 1px solid; 
+		BORDER-TOP: black 1px solid;
+		BORDER-LEFT: black 1px solid; 
+		BORDER-BOTTOM: black 1px solid; 
+		padding-left:2px;
+		padding-right:2px;
+		width:135;
+	}
+	.drpdwn
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		height:50px;
+		font-size:11px;
+		font-weight:normal;
+		BORDER-RIGHT: black 1px solid; 
+		BORDER-TOP: black 1px solid;
+		BORDER-LEFT: black 1px solid; 
+		BORDER-BOTTOM: black 1px solid; 
+		padding-left:2px;
+		padding-right:2px;
+ 		width:150;
+	}
+	.drpdwnCaption
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		height:50px;
+		font-size:11px;
+		font-weight:normal;
+		BORDER-RIGHT: black 1px solid; 
+		BORDER-TOP: black 1px solid;
+		BORDER-LEFT: black 1px solid; 
+		BORDER-BOTTOM: black 1px solid; 
+		padding-left:2px;
+		padding-right:2px;
+ 		width:200;
+	}
+	.caption11
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		font-size:11px;
+		font-weight:normal;
+		padding-left:10px;
+		padding-right:10px;
+
+	}
+	input.button55
+	{
+		height:22px;
+		font-family:Verdana,Arial;
+		font-size:11px;
+		font-weight:bold;
+		border-width:1px;
+		width:75;
+		color:white;
+		background-color:#00B700;
+		cursor:pointer;
+	}
+	input.button70
+	{
+		height:22px;
+		font-family:Verdana,Arial;
+		font-size:11px;
+		font-weight:bold;
+		border-width:1px;
+		width:110;
+		color:white;
+		background-color:#00B700;
+		cursor:pointer;
+	}
+	input.button_55
+	{
+		height:22px;
+		font-family:Verdana,Arial;
+		font-size:11px;
+		font-weight:bold;
+		border-width:1px;
+		width:50;
+		color:white;
+		background-color:#00B700;
+		cursor:pointer;
+	}
+	input.button90
+	{
+		height:22px;
+		font-family:Verdana,Arial;
+		font-size:11px;
+		font-weight:bold;
+		border-width:1px;
+		width:110;
+		color:white;
+		background-color:#00B700;
+		cursor:pointer;
+	}
+	input.button_90
+	{
+		height:22px;
+		font-family:Verdana,Arial;
+		font-size:11px;
+		font-weight:bold;
+		border-width:1px;
+		width:110;
+		color:white;
+		background-color:#00B700;
+		cursor:pointer;
+	}
+	.heading22
+	{
+		color: black;
+		font-family:Verdana,Arial;
+		font-size:14px;
+		font-weight:bold;
+		padding-left:10px;
+	}
+	.Pagetext
+	{
+		font-family:Arial;
+		font-size:11px;
+		color:#F88F1C;
+		padding-left:5px;
+		padding-right:5px;
+		
+	}
+	.Pagetext1
+	{
+		font-family:Arial;
+		font-size:10px;
+		color: pink;
+		padding-left:5px;
+		padding-right:5px;
+		
+	}
+	a.PageLink:link {color:white;font-size:11px;font-weight:normal;font-family:Arial;text-decoration:none;}
+	a.PageLink:visited {color:white;font-size:11px;font-weight:normal;font-family:Arial;text-decoration:none;}
+	a.PageLink:active {color:white;font-size:11px;font-weight:normal;font-family:Arial;text-decoration:none;}
+	a.PageLink:hover {color: white;font-size:11px;font-weight:normal;font-family:Arial;text-decoration:none;}
+
+
+	.normaltext11_1
+{
+	font-size:11px;
+	color:black;
+	font-weight:bold;
+	font-family:Arial;
+}
+
+.headbg{color:black;font-family:verdana;font-size:13px;font-weight:bold;}
+.text_white12v{color:black;font-family:verdana;font-size:13px;font-weight:bold;}
+.normaltext13v{font-size:13px;color:black;font-weight:normal;font-family:verdana;}
+/*DB creation report styles*/
+td.tdheading10
+{
+	vertical-align:middle;
+	height:25px;
+	font-weight:bold;
+	font-size:10px;
+	font-family:Verdana,Arial;
+}
+td.tdheading11
+{
+	vertical-align:middle;
+	height:20px;
+	font-size:11px;
+	font-family:Verdana,Arial;
+}
+td.tdheading11b
+{
+	vertical-align:middle;
+	height:25px;
+	font-weight:bold;
+	font-size:11px;
+	font-family:Verdana,Arial;
+}
+td.tdheading
+{
+	vertical-align:middle;
+	height:25px;
+	font-weight:bold;
+	font-size:11px;
+	font-family:Verdana,Arial;
+}
+td.tdheading12
+{
+	vertical-align:middle;
+
+	height:25px;
+	font-weight:bold;
+	font-size:12px;
+	font-family:Verdana,Arial;
+}
+td.tdheading12woh
+{
+	vertical-align:middle;
+	font-weight:bold;
+	font-size:12px;
+	font-family:Verdana,Arial;
+}
+input.Button
+{
+	/*background:#F1565A;*/
+	background:#4d9adf;
+	color:white;
+	font-size:11px;
+	font-family:verdana,Arial;
+	font-weight:bold;
+	cursor:pointer;
+	border:1px solid #D1D1D1;
+	height:20px;
+}
+select.selectbox
+{
+border-width: 1px;
+height:20px;
+font-weight: normal;
+font-size: 11px;
+font-family:Verdana,Arial;
+color: black;
+border: 1px solid #A7A7A7;
+/*
+BORDER-RIGHT: #769DDE 1px solid; 
+BORDER-TOP: #769DDE 1px solid;
+BORDER-LEFT: #769DDE 1px solid; 
+BORDER-BOTTOM: #769DDE 1px solid; 
+*/
+}
+
